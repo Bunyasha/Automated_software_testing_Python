@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: Gryffindor
+password: 57c4fff33b
+bad_login: test
+name: Granger Hermione
+email: test@mail.ru
+content: Test information
